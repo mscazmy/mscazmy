@@ -5,4 +5,3 @@
 
 ![Snake animation](https://raw.githubusercontent.com/mscazmy/mscazmy/output/github-snake.svg)
 
-![https://github-readme-streak-stats.herokuapp.com/?user=mscazmy
