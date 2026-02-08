@@ -1,6 +1,5 @@
 
 
-# Hello 👋, I'm Ahmed Azeez
 
 <div align="center">
   
