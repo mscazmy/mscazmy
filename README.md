@@ -89,7 +89,7 @@ I primarily apply **Health Behavior Theories**—notably the **Health Belief Mod
 
 ## 🎤 Academic Activities
 
-- Delivered a **30-minute departmental presentation** on:
+- Delivered classes on:
   > *Exploratory Factor Analysis (EFA), Confirmatory Factor Analysis (CFA), and Structural Equation Modeling (SEM)*
 
 ---
@@ -104,8 +104,7 @@ I primarily apply **Health Behavior Theories**—notably the **Health Belief Mod
 
 ## 📫 Contact
 
-📧 Email: *(not publicly listed)*  
-🌐 GitHub: *(this profile)*  
+📧 Email: *ahmed.azeez1987@gmail.com*    
 
 ---
 
